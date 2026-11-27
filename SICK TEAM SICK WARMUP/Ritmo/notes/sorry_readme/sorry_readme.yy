@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"sorry_readme",
+  "name":"sorry_readme",
+  "parent":{
+    "name":"Ritmo",
+    "path":"Ritmo.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

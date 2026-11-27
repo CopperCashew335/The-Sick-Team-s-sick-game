@@ -1,0 +1,9 @@
+xsp = 0
+ysp = 0
+acc = 1
+acc_div = 2
+grav = 4
+jump_force = 45
+touching = 0
+canjump = 1
+walls = layer_tilemap_get_id("walls")

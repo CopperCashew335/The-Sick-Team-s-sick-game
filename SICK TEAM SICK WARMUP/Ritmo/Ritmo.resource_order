@@ -1,0 +1,14 @@
+{
+  "FolderOrderSettings":[
+    {"name":"objects","order":2,"path":"folders/objects.yy",},
+    {"name":"rooms","order":3,"path":"folders/rooms.yy",},
+    {"name":"scripts","order":5,"path":"folders/scripts.yy",},
+    {"name":"sprites","order":8,"path":"folders/sprites.yy",},
+    {"name":"tilesets","order":7,"path":"folders/tilesets.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"sorry_readme","order":9,"path":"notes/sorry_readme/sorry_readme.yy",},
+    {"name":"line_to_nearest_distance","order":1,"path":"scripts/line_to_nearest_distance/line_to_nearest_distance.yy",},
+    {"name":"Tiles_sp","order":1,"path":"sprites/Tiles_sp/Tiles_sp.yy",},
+  ],
+}

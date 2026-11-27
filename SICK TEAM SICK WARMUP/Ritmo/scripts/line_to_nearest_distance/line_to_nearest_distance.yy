@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"line_to_nearest_distance",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"line_to_nearest_distance",
+  "parent":{
+    "name":"scripts",
+    "path":"folders/scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
